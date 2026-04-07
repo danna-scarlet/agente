@@ -1,0 +1,4 @@
+wing: agente
+rooms:
+- name: general
+  description: All project files
